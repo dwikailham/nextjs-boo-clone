@@ -25,7 +25,7 @@ npm run dev
 ### Time Spent
 
 Start: 2025-11-25 — 08:00
-End: 2025-11-25 — 11:45
+End: 2025-11-25 — 11:30
 Total: +-3.5 hours
 
 Breakdown:
